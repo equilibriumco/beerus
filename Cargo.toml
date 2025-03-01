@@ -35,7 +35,7 @@ hex = "0.4.3"
 bitvec = "1.0.1"
 validator = { version = "0.18.1", features = ["derive"] }
 url = "2.5.1"
-toml = "0.8.19"
+toml = "0.8.20"
 lru = "0.12.5"
 alloy-primitives = { version = "0.8.5", default-features = false }
 
