@@ -4962,8 +4962,8 @@ dependencies = [
 
 [[package]]
 name = "iamgroot"
-version = "0.2.8"
-source = "git+https://github.com/sergey-melnychuk/iamgroot?tag=v0.2.8#23179929c7c506b37d5762dd4deafe93aea8f698"
+version = "0.3.0"
+source = "git+https://github.com/sergey-melnychuk/iamgroot?tag=v0.3.0#e73307a4e134e3d2ef56629a0a65e9326ddd36cb"
 dependencies = [
  "once_cell",
  "regex",
