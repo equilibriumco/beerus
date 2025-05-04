@@ -7176,7 +7176,7 @@ dependencies = [
 [[package]]
 name = "reth-libmdbx"
 version = "0.1.0-alpha.13"
-source = "git+https://github.com/paradigmxyz/reth.git?rev=b34b0d3#b34b0d3c8de2598b2976f7ee2fc1a166c50b1b94"
+source = "git+https://github.com/paradigmxyz/reth?rev=b34b0d3#b34b0d3c8de2598b2976f7ee2fc1a166c50b1b94"
 dependencies = [
  "bitflags 2.6.0",
  "byteorder",
@@ -7191,7 +7191,7 @@ dependencies = [
 [[package]]
 name = "reth-mdbx-sys"
 version = "0.1.0-alpha.13"
-source = "git+https://github.com/paradigmxyz/reth.git?rev=b34b0d3#b34b0d3c8de2598b2976f7ee2fc1a166c50b1b94"
+source = "git+https://github.com/paradigmxyz/reth?rev=b34b0d3#b34b0d3c8de2598b2976f7ee2fc1a166c50b1b94"
 dependencies = [
  "bindgen 0.68.1",
  "cc",
@@ -7201,7 +7201,7 @@ dependencies = [
 [[package]]
 name = "reth-metrics-derive"
 version = "1.0.3"
-source = "git+https://github.com/paradigmxyz/reth.git?tag=v1.0.3#390f30aadebcdd509e72cc04327c3b854de076a6"
+source = "git+https://github.com/paradigmxyz/reth?tag=v1.0.3#390f30aadebcdd509e72cc04327c3b854de076a6"
 dependencies = [
  "once_cell",
  "proc-macro2",
