@@ -21,7 +21,7 @@ jobs:
       DEPLOYER_ACCOUNT_ADDRESS: ${{secrets.DEPLOYER_ACCOUNT_ADDRESS}}
       DEPLOYER_PRIVATE_KEY: ${{secrets.DEPLOYER_PRIVATE_KEY}}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
       - uses: dtolnay/rust-toolchain@stable
       - uses: Swatinem/rust-cache@v2
       - run: rm -rf /opt/hostedtoolcache
